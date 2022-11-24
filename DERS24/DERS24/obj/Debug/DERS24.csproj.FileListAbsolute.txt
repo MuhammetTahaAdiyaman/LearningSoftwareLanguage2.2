@@ -1,0 +1,6 @@
+D:\C# Projelerim 2022\DERS24\DERS24\obj\Debug\DERS24.csproj.CoreCompileInputs.cache
+D:\C# Projelerim 2022\DERS24\DERS24\bin\Debug\DERS24.exe.config
+D:\C# Projelerim 2022\DERS24\DERS24\bin\Debug\DERS24.exe
+D:\C# Projelerim 2022\DERS24\DERS24\bin\Debug\DERS24.pdb
+D:\C# Projelerim 2022\DERS24\DERS24\obj\Debug\DERS24.exe
+D:\C# Projelerim 2022\DERS24\DERS24\obj\Debug\DERS24.pdb
