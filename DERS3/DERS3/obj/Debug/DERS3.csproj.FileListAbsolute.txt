@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\DERS3\DERS3\bin\Debug\DERS3.exe.config
+C:\Users\muham\source\repos\DERS3\DERS3\bin\Debug\DERS3.exe
+C:\Users\muham\source\repos\DERS3\DERS3\bin\Debug\DERS3.pdb
+C:\Users\muham\source\repos\DERS3\DERS3\obj\Debug\DERS3.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\DERS3\DERS3\obj\Debug\DERS3.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\DERS3\DERS3\obj\Debug\DERS3.exe
+C:\Users\muham\source\repos\DERS3\DERS3\obj\Debug\DERS3.pdb
