@@ -1,0 +1,6 @@
+D:\C# Projelerim 2022\DERS15\DERS15\obj\Debug\DERS15.csproj.CoreCompileInputs.cache
+D:\C# Projelerim 2022\DERS15\DERS15\bin\Debug\DERS15.exe.config
+D:\C# Projelerim 2022\DERS15\DERS15\bin\Debug\DERS15.exe
+D:\C# Projelerim 2022\DERS15\DERS15\bin\Debug\DERS15.pdb
+D:\C# Projelerim 2022\DERS15\DERS15\obj\Debug\DERS15.exe
+D:\C# Projelerim 2022\DERS15\DERS15\obj\Debug\DERS15.pdb
