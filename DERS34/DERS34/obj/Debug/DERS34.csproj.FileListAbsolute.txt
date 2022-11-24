@@ -1,0 +1,7 @@
+D:\C# Projelerim 2022\DERS34\DERS34\bin\Debug\DERS34.exe.config
+D:\C# Projelerim 2022\DERS34\DERS34\bin\Debug\DERS34.exe
+D:\C# Projelerim 2022\DERS34\DERS34\bin\Debug\DERS34.pdb
+D:\C# Projelerim 2022\DERS34\DERS34\obj\Debug\DERS34.csprojAssemblyReference.cache
+D:\C# Projelerim 2022\DERS34\DERS34\obj\Debug\DERS34.csproj.CoreCompileInputs.cache
+D:\C# Projelerim 2022\DERS34\DERS34\obj\Debug\DERS34.exe
+D:\C# Projelerim 2022\DERS34\DERS34\obj\Debug\DERS34.pdb
