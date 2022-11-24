@@ -1,0 +1,7 @@
+D:\C# Projelerim 2022\DERS1\DERS1\obj\Debug\DERS1.csprojAssemblyReference.cache
+D:\C# Projelerim 2022\DERS1\DERS1\obj\Debug\DERS1.csproj.CoreCompileInputs.cache
+D:\C# Projelerim 2022\DERS1\DERS1\bin\Debug\DERS1.exe.config
+D:\C# Projelerim 2022\DERS1\DERS1\bin\Debug\DERS1.exe
+D:\C# Projelerim 2022\DERS1\DERS1\bin\Debug\DERS1.pdb
+D:\C# Projelerim 2022\DERS1\DERS1\obj\Debug\DERS1.exe
+D:\C# Projelerim 2022\DERS1\DERS1\obj\Debug\DERS1.pdb
