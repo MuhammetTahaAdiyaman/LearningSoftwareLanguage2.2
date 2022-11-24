@@ -1,0 +1,6 @@
+D:\C# Projelerim 2022\DERS27\DERS27\bin\Debug\DERS27.exe.config
+D:\C# Projelerim 2022\DERS27\DERS27\bin\Debug\DERS27.exe
+D:\C# Projelerim 2022\DERS27\DERS27\bin\Debug\DERS27.pdb
+D:\C# Projelerim 2022\DERS27\DERS27\obj\Debug\DERS27.csproj.CoreCompileInputs.cache
+D:\C# Projelerim 2022\DERS27\DERS27\obj\Debug\DERS27.exe
+D:\C# Projelerim 2022\DERS27\DERS27\obj\Debug\DERS27.pdb
