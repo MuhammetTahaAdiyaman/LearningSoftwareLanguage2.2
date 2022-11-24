@@ -1,0 +1,6 @@
+C:\Users\muham\source\repos\DERS4\DERS4\obj\Debug\DERS4.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\DERS4\DERS4\bin\Debug\DERS4.exe.config
+C:\Users\muham\source\repos\DERS4\DERS4\bin\Debug\DERS4.exe
+C:\Users\muham\source\repos\DERS4\DERS4\bin\Debug\DERS4.pdb
+C:\Users\muham\source\repos\DERS4\DERS4\obj\Debug\DERS4.exe
+C:\Users\muham\source\repos\DERS4\DERS4\obj\Debug\DERS4.pdb
